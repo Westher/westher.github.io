@@ -1,0 +1,4006 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Section menu",
+    "displayTitle": "Section menu",
+    "body": "<p>Within a section, navigate down to continue.</p><p>To get an overview of the section, click the section menu (hamburger button) in the navigation header at the top. A menu will open showing the elements you have completed and the elements you still have left to do.</p><p>You can also jump directly to an element by clicking it in the section menu.</p>",
+    "_id": "630629df2e59cf12be74ead5",
+    "_parentId": "630629de2e59cf12be74ea55",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Main menu",
+    "displayTitle": "Main menu",
+    "body": "<p>The training consists of a number of sections, which can be accessed from the main menu. We recommend you do the sections in order.</p><p>The main menu also shows your progress in each section and the sections you have completed.</p><p>The training will take approximately 30 minutes. You can complete the entire training in one sitting, or take one section at a time if that suits you better. If you take a section at a time, you must finish the training within one week of starting it.</p>",
+    "_id": "630629df2e59cf12be74ead7",
+    "_parentId": "630629de2e59cf12be74ea59",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74ead9",
+    "_parentId": "630629de2e59cf12be74ea55",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/612f6b5eb8c9c14b6eadf9d5.png",
+      "small": "course/en/assets/612f6b5eb8c9c14b6eadf9d5.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eadf",
+    "_parentId": "630629de2e59cf12be74ea57",
+    "_type": "component",
+    "_layout": "full",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_search": {
+      "_isEnabled": true,
+      "keywords": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Completed section",
+    "displayTitle": "Completed section",
+    "body": "<p>Continue the training by clicking Next (right arrow) at the very bottom of the page. This will take you to a new section.</p><p>You can also click Home (home button/logo) to return to the main menu and choose a new section there.</p>",
+    "_id": "630629df2e59cf12be74eadd",
+    "_parentId": "630629de2e59cf12be74ea53",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eadb",
+    "_parentId": "630629de2e59cf12be74ea53",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/612f6b5eb8c9c14b6eadf9d6.png",
+      "small": "course/en/assets/612f6b5eb8c9c14b6eadf9d6.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Search function",
+    "displayTitle": "Search function",
+    "body": "<p>Click the search function in the navigation header to perform a free text search in the training.</p>",
+    "_id": "630629df2e59cf12be74eae1",
+    "_parentId": "630629de2e59cf12be74ea5b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Did you know that…?",
+    "displayTitle": "Did you know that…?",
+    "body": "<p>Diversity and inclusion at the workplace are good for everyone. They benefit the individual, the group and the business. Diversity and inclusion have many advantages. Here are some examples:</p><ul><li>We enjoy our work more.</li><li>We boost creativity and think in new ways.</li><li>We make better decisions in the group.</li><li>We understand our different customers better.</li><li>We appeal to more people when recruiting.</li></ul>",
+    "_id": "630629df2e59cf12be74eae5",
+    "_parentId": "630629de2e59cf12be74ea5d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eae3",
+    "_parentId": "630629de2e59cf12be74ea5b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/612f6b5e6636df2e584ffb76.png",
+      "small": "course/en/assets/612f6b5e6636df2e584ffb76.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "flipcard",
+    "_classes": "half-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Some key terms",
+    "displayTitle": "Some key terms",
+    "body": "<p>You&rsquo;ll now learn some key terms that will be used throughout the course.</p>",
+    "_id": "630629df2e59cf12be74eae7",
+    "_parentId": "630629de2e59cf12be74ea5f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "Click the images to find out what the different terms mean.",
+    "_flipType": "allFlip",
+    "_flipTime": 400,
+    "_items": [
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "Rainbow. Click to flip the image. ",
+          "src": "course/en/assets/631b1fdac0440812be4ee4d6.png"
+        },
+        "backTitle": "Diversity",
+        "backBody": "<p>Diversity means that people within a group are different. For example, different genders, ethnicities, beliefs, disability, sexual orientation, age, sexual identity, experience, educational background and language skills.</p>"
+      },
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "Heart. Click to flip the image. ",
+          "src": "course/en/assets/631b1fdad4132512c4acc6ef.png"
+        },
+        "backTitle": "Inclusion",
+        "backBody": "<p>At an inclusive workplace, everyone feels they belong and are part of the community. Inclusion means that we &ndash; employees as well as managers &ndash; appreciate one another&rsquo;s differences.</p>"
+      },
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "Three people, one of which is a little excluded. Click to flip the image. ",
+          "src": "course/en/assets/631b1fdaa559c614bcc8ff24.png"
+        },
+        "backTitle": "Exclusion",
+        "backBody": "<p>Exclusion means that we feel alone and excluded from the group, and we might be too afraid to be ourselves at work. Exclusion is damaging both for the individual and for the group.</p>"
+      }
+    ]
+  },
+  {
+    "_component": "narrative",
+    "_classes": "half-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Can you be yourself at work?",
+    "displayTitle": "Can you be yourself at work?",
+    "body": "<p>There may be various reasons for not wanting or being too afraid to be ourselves at work.</p><p>Here you will meet six people and hear about what they have experienced. Perhaps you have had a similar experience yourself? Think about how you would want the situation to be instead!</p>",
+    "_id": "630629df2e59cf12be74eae9",
+    "_parentId": "630629de2e59cf12be74ea61",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click Next or Previous (forward or back arrow) to access the information.",
+    "mobileInstruction": "Click the plus sign to get more information. Then continue by clicking the right arrow or the plus sign again.",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Ahmed",
+        "_ariaLevel": 0,
+        "body": "<p>I’m so tired of people thinking I’m a tough guy, just because I’m a man and live in the suburbs. My biggest passion is cooking, but I’m almost never included in these kinds of conversations.</p>",
+        "_graphic": {
+          "src": "course/en/assets/62a306349ea727658691168f.png",
+          "alt": "Picture of Ahmed in the office environment.",
+          "attribution": ""
+        },
+        "strapline": "Ahmed"
+      },
+      {
+        "title": "José",
+        "_ariaLevel": 0,
+        "body": "<p>I’m religious, but I would never let anyone know this at work. My boss often says the world would be a better place without religion. I feel like I’m being talked about personally, even though they don’t know I’m a believer.</p>",
+        "_graphic": {
+          "src": "course/en/assets/62a3068e68db890cc916bae7.png",
+          "alt": "Picture of José.",
+          "attribution": ""
+        },
+        "strapline": "José"
+      },
+      {
+        "title": "Alicia",
+        "_ariaLevel": 0,
+        "body": "<p>I have children with another woman, and I never know how people are going to react or what they’ll think. I’m reluctant to tell new colleagues; what if they’re weird about it and then we have to work together.</p>",
+        "_graphic": {
+          "src": "course/en/assets/62a304aa76d2060c9a649273.png",
+          "alt": "Picture of Alicia.",
+          "attribution": ""
+        },
+        "strapline": "Alicia"
+      },
+      {
+        "title": "Sally",
+        "_ariaLevel": 0,
+        "body": "<p>I don’t know how many times I’ve been asked:</p><blockquote><p>But where are you actually from?</p></blockquote><p>I was born and raised in Västerås but they won’t let it go until I’ve detailed the background of half my family.</p>",
+        "_graphic": {
+          "src": "course/en/assets/62a305c89ea727658691168e.png",
+          "alt": "Picture of Sally.",
+          "attribution": ""
+        },
+        "strapline": "Sally"
+      },
+      {
+        "title": "Helena",
+        "_ariaLevel": 0,
+        "body": "<p>I’ve worked here for 27 years, but it feels as if no one wants to hear what I’ve got to say anymore. Just because I’m older, people think I’ve got nothing new to contribute.</p>",
+        "_graphic": {
+          "src": "course/en/assets/62a305f009df4f658cf2ab8c.png",
+          "alt": "Picture of Helena.",
+          "attribution": ""
+        },
+        "strapline": "Helena"
+      },
+      {
+        "title": "Carl",
+        "_ariaLevel": 0,
+        "body": "<p>My hearing is really poor. Some people seem to think it affects my abilities. I’m not asked as often as others, even though I’m one of the ones who have worked here the longest.</p>",
+        "_graphic": {
+          "src": "course/en/assets/62a3061576d2060c9a649274.png",
+          "alt": "Picture of Carl.",
+          "attribution": ""
+        },
+        "strapline": "Carl"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Alicia ",
+    "displayTitle": "",
+    "body": "<p><strong>Name</strong>: Alicia Gonzales</p><p><strong>Age:</strong> 41</p><p><strong>Job:</strong> Warehouse temp</p><p><strong>Family:</strong> Partner, Stina, two children and dogs</p><p><strong>Home:</strong> Rented apartment in the suburbs</p><p><strong>More about me:</strong> I love the forest and nature – for peace and tranquillity. It does the whole family good!</p>",
+    "_id": "630629df2e59cf12be74eaeb",
+    "_parentId": "630629de2e59cf12be74ea63",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "half-component ",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "We are all different (FILM)",
+    "displayTitle": "We are all different",
+    "body": "<span class=\"screen-reader-text\">This film has no audio description. A textual alternative follows the film if you prefer to read.</span>",
+    "_id": "630629df2e59cf12be74eaef",
+    "_parentId": "630629de2e59cf12be74ea65",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the play button to start the film. If you want to use the textual alternative, click the “Read instead of watching” button.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://vimeo.com/725293225/fd204b65a7",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "sv",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": true,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "Read instead of watching",
+      "inlineTranscriptCloseButton": "Close",
+      "inlineTranscriptBody": "<p><strong>SCENE 1</strong></p><p><i>Alicia and a colleague enter the break room in the warehouse. Alicia looks tired and is holding her head.</i></p><p><strong>Colleague 1:</strong> Oh, are you OK? Don’t you feel well?</p><p><strong>Alicia:</strong> I’m just getting so tired of eating in the canteen. There’s so many people and it’s so noisy.</p><p><strong>Colleague 1: </strong>Really? I hadn’t noticed.</p><p><strong>Alicia:</strong> (Looking a little uncomfortable.) I might not have mentioned it but I find it difficult to cope with so much stimulus at once. I, ermmm, I have autism…</p><p><strong>Colleague 1:</strong> What? You do?? I would never have guessed that. But you’re not actually… well, you know… (falling silent)</p><p><strong>Alicia:</strong> (looking down at the floor) Mmm… I’ve learned to not let it show so much…</p><p><strong>SCENE 2</strong></p><p><i>Alicia and her colleague are sitting drinking coffee in the break room. Another colleague comes and sits at the same table.</i></p><p><strong>Colleague 2:</strong> Have you heard that we’re getting an intern next week? </p><p>The others shake their heads.</p><p><strong>Colleague 2:</strong> Yep, from some high school. The boss asked me if I want to be their supervisor (sounding hesitant)</p><p><strong>Colleague 1</strong> But that could be great. I was a supervisor last year.</p><p><strong>Colleague 2:</strong> Well, absolutely, it could be. But they are from some special school for people with ADHD. How would that work? I might not even understand what they are saying! (sounding like a cruel joke)</p><p>Colleague 1 looks at Alicia who looks down into her cup of coffee.</p><p> </p>",
+      "transcriptLinkButton": "Read instead of watching",
+      "transcriptLink": ""
+    },
+    "_playerOptions": null
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Info box (POSSIBLY NON-VISIBLE HEADING)",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eaed",
+    "_parentId": "630629de2e59cf12be74ea63",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Picture of Alicia.",
+      "large": "course/en/assets/62a309dd9ea7276586911691.png",
+      "small": "course/en/assets/62a309dd9ea7276586911691.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "What happened?",
+    "displayTitle": "What happened?",
+    "body": "<p>People with disabilities are often caught in the middle. Alicia’s colleague let slip a comment that made the others in the room upset and uncomfortable. We need to think about the way in which what we say can be perceived by others, so that we don’t upset anyone when we’re trying to come across as funny.</p><p>Sometimes when we are on the receiving end of cruel jokes or comments, we are told “Don’t be so sensitive!”. But no one should have to tolerate things that make them upset.</p>",
+    "_id": "630629df2e59cf12be74eaf1",
+    "_parentId": "630629de2e59cf12be74ea67",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "align-block",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "What happened?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eaf3",
+    "_parentId": "630629de2e59cf12be74ea67",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Speech bubble with symbols for foul language or derogatory terms.",
+      "large": "course/en/assets/62a752f876d2060c9a6492a2.png",
+      "small": "course/en/assets/62a752f876d2060c9a6492a2.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "People are like icebergs",
+    "displayTitle": "People are like icebergs",
+    "body": "<p>A person is like an iceberg. Very little is visible and on display, while a lot is hidden under the surface. We often notice things like hair colour or a person’s accent. But things like beliefs, skills or mental health problems are not visible as often.</p><p>Both what we see and what we don’t see influences how a person is and behaves.</p>",
+    "_id": "630629df2e59cf12be74eaf7",
+    "_parentId": "630629de2e59cf12be74ea6b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "slider",
+    "_classes": "half-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "People with disabilities",
+    "displayTitle": "People with disabilities",
+    "body": "<p>Can you guess what percentage of the Swedish population has a disability?</p>",
+    "_id": "630629df2e59cf12be74eaf5",
+    "_parentId": "630629de2e59cf12be74ea69",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Drag the slider to show the percentage you think has a disability.",
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "labelStart": "0%",
+    "labelEnd": "100%",
+    "_scaleStart": 0,
+    "_scaleEnd": 100,
+    "_scaleStep": 10,
+    "_correctAnswer": "30",
+    "_correctRange": {
+      "_bottom": 0,
+      "_top": 0
+    },
+    "_showScaleIndicator": true,
+    "_showNumber": true,
+    "_showScale": true,
+    "_showScaleNumbers": true,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>You are right!</p><p>30% of the Swedish population has some kind of disability. The figure is 16% for people of working age. Most have disabilities that are invisible, for example autism, ADHD, dyslexia, hearing impairment or medical conditions.</p><p>(Source: SCB [Statistics Sweden] 2020 and 2021)</p>",
+      "_incorrect": {
+        "final": "<p>Good guess but not quite right.</p><p>30% of the Swedish population has some kind of disability. The figure is 16% for people of working age. Most have disabilities that are invisible, for example autism, ADHD, dyslexia, hearing impairment or medical conditions.</p><p>(Source: SCB [Statistics Sweden] 2020 and 2021)</p>",
+        "notFinal": "<p>Good guess but not quite right.</p><p>Try again.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "What is the situation like here?",
+    "displayTitle": "What is the situation like here?",
+    "body": "<p>What, in your opinion, is the situation like at your workplace?</p><p>Give some thought to the iceberg with your colleagues during your next coffee break. What similarities and differences do you have? What can be seen and what can’t be seen?</p>",
+    "_id": "630629df2e59cf12be74eaf9",
+    "_parentId": "630629de2e59cf12be74ea6d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "align-block",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "What is the situation like here?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eafb",
+    "_parentId": "630629de2e59cf12be74ea6d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Question mark.",
+      "large": "course/en/assets/62a754a376d2060c9a6492a3.png",
+      "small": "course/en/assets/62a754a376d2060c9a6492a3.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "flipcard",
+    "_classes": "half-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Tips",
+    "displayTitle": "Tips",
+    "body": "<p>What can you say and do as a colleague to be inclusive?</p>",
+    "_id": "630629df2e59cf12be74eafe",
+    "_parentId": "630629de2e59cf12be74ea6f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the images for tips on what to do in different scenarios.",
+    "_flipType": "allFlip",
+    "_flipTime": 400,
+    "_items": [
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "Speech bubble with question mark.",
+          "src": "course/en/assets/62a7559f68db890cc916bb2e.png"
+        },
+        "backTitle": "Don’t be afraid to ask!",
+        "backBody": "<ul><li>Instead of assuming you know what makes a person tick, ask.</li><li>Ask everyone – don’t leave anyone out!</li><li>Remember that it’s better to talk WITH one another than ABOUT one another.</li></ul>"
+      },
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "Eye.",
+          "src": "course/en/assets/62a75ca89ea72765869116c7.png"
+        },
+        "backTitle": "Eye contact or not?",
+        "backBody": "<p>Many people find it hard to make eye contact. If the person you’re talking to seems to be engaged in the conservation, even though they are not looking at you, keep talking. You can have a good conversation even without eye contact.</p>"
+      },
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "Checklist and pen.",
+          "src": "course/en/assets/62a84d9b76d2060c9a6492b1.png"
+        },
+        "backTitle": "Be clear!",
+        "backBody": "<ul><li>In order to be clear, think about answering the questions when, where, who, how and why.</li><li>Avoid surprises – many people don’t like them.</li></ul>"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Ahmed",
+    "displayTitle": "",
+    "body": "<p><strong>Name</strong>: Ahmed Ablah</p><p><strong>Age:</strong> 28</p><p><strong>Job:</strong> Office accounts assistant</p><p><strong>Family:</strong> Came to Sweden a few years ago</p><p><strong>Home:</strong> Shares an apartment in the suburbs with a friend from his home country</p><p><strong>More about me:</strong> Degree in business administration from home country</p>",
+    "_id": "630629df2e59cf12be74eb03",
+    "_parentId": "630629de2e59cf12be74ea75",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "slider",
+    "_classes": "half-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Not everyone wants to mention their partner",
+    "displayTitle": "Not everyone wants to mention their partner",
+    "body": "<p>Guess what percentage of bisexuals or homosexuals conceal their sexual orientation at work.</p>",
+    "_id": "630629df2e59cf12be74eb00",
+    "_parentId": "630629de2e59cf12be74ea73",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Drag the slider to show the percentage of bisexuals or homosexuals you think conceal their orientation at work.",
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "labelStart": "0%",
+    "labelEnd": "100%",
+    "_scaleStart": 0,
+    "_scaleEnd": 100,
+    "_scaleStep": 10,
+    "_correctAnswer": "50",
+    "_correctRange": {
+      "_bottom": 0,
+      "_top": 0
+    },
+    "_showScaleIndicator": true,
+    "_showNumber": true,
+    "_showScale": true,
+    "_showScaleNumbers": true,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>You are right!</p><p>A survey has shown that half of all bisexuals or homosexuals conceal their orientation at work.</p><p>(Source: SCB [Statistics Sweden] 2020 and 2021)</p>",
+      "_incorrect": {
+        "final": "<p>Good guess but not quite right.</p><p>A survey has shown that half of all bisexuals or homosexuals conceal their orientation at work.</p><p>(Source: SCB [Statistics Sweden] 2020 and 2021)</p>",
+        "notFinal": "<p>Good guess but not quite right.</p><p>Try again.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Info box (POSSIBLY NON-VISIBLE HEADING)",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb06",
+    "_parentId": "630629de2e59cf12be74ea75",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Picture of Ahmed.",
+      "large": "course/en/assets/62a306349ea727658691168f.png",
+      "small": "course/en/assets/62a306349ea727658691168f.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "half-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Don’t be guided by your preconceptions (FILM)",
+    "displayTitle": "Don’t be guided by your preconceptions",
+    "body": "<span class=\"screen-reader-text\">This film has no audio description. A textual alternative follows the film if you prefer to read.</span>",
+    "_id": "630629df2e59cf12be74eb08",
+    "_parentId": "630629de2e59cf12be74ea77",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the play button to start the film. If you want to use the textual alternative, click the “Read instead of watching” button.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://vimeo.com/725289877/a5b6b3d1bf",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "sv",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": true,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "Read instead of watching",
+      "inlineTranscriptCloseButton": "Close",
+      "inlineTranscriptBody": "<p><i></i></p><p><i>In an office. Ahmed is walking in a corridor. His boss catches up with him from behind and claps Ahmed on the shoulder. </i></p><p><strong>Boss:</strong> Hi Ahmed. Great to see you.</p><p><strong>Ahmed:</strong> Hi. </p><p><strong>Boss: </strong>It’s good I ran into you. I just wanted to check in with you, see how you’re getting on. It’s been about a month now since you joined us.</p><p><strong>Ahmed:</strong> Thanks. I like it here Really like it. I’m happy to have got the job here. But…</p><p><strong>Boss:</strong> Just say what you’re thinking. You know you can talk to me!</p><p><strong>Ahmed:</strong> (a little hesitant) Well, there is just one thing… I would like to be able to take part in a customer meeting. The other accounts assistants get to do this and I’d also like to try it.</p><p><strong>Boss:</strong> (chuckling) Well it’s great to be ambitious, Ahmed. But I don’t think we’re quite there yet. You know how it is with the language. Customers have to feel safe in the knowledge that we understand them. And they must be able to understand us. Maybe when your Swedish is a little stronger.</p><p><i>The boss claps Ahmed on the shoulder and walks away. Ahmed sighs deeply.</i></p>",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": null
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "What happened?",
+    "displayTitle": "What happened?",
+    "body": "<p>What we saw in the film has its roots in prejudice and is referred to as cognitive bias.</p><p>Ahmed has a degree in business administration. He speaks Swedish well, even if it’s not completely fluent. His language skills don’t have to be barrier in a customer meeting, and if he’s included, he will get the chance to develop his Swedish more quickly.</p><p>Instead of focussing on Ahmed’s knowledge and potential, the boss is being led by his own preconceptions of people who don’t speak fluent Swedish. The boss’s decision about customer meetings in fluent Swedish may be based on prejudice and bias.</p>",
+    "_id": "630629df2e59cf12be74eb0a",
+    "_parentId": "630629de2e59cf12be74ea79",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "align-block",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "What happened?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb0c",
+    "_parentId": "630629de2e59cf12be74ea79",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Question mark.",
+      "large": "course/en/assets/62a754a376d2060c9a6492a3.png",
+      "small": "course/en/assets/62a754a376d2060c9a6492a3.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "col-2",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Prejudice and bias",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb0e",
+    "_parentId": "630629de2e59cf12be74ea7b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Two people. ",
+      "large": "course/en/assets/62a833fc68db890cc916bb30.png",
+      "small": "course/en/assets/62a833fc68db890cc916bb30.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "slider",
+    "_classes": "half-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "People with a foreign background",
+    "displayTitle": "People with a foreign background",
+    "body": "<p><span><span>Do you know what percentage of the Swedish population had a foreign background in 2020? </span></span></p>",
+    "_id": "630629df2e59cf12be74eb10",
+    "_parentId": "630629de2e59cf12be74ea7d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Drag the slider to show the percentage you think has a foreign background.",
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "labelStart": "0%",
+    "labelEnd": "100%",
+    "_scaleStart": 0,
+    "_scaleEnd": 100,
+    "_scaleStep": 25,
+    "_correctAnswer": "25",
+    "_correctRange": {
+      "_bottom": 25,
+      "_top": 25
+    },
+    "_showScaleIndicator": true,
+    "_showNumber": true,
+    "_showScale": true,
+    "_showScaleNumbers": true,
+    "_feedback": {
+      "title": "",
+      "correct": "<p lang=\"sv\"><span><span><span style=\"color:black\">You are right.</span></span></span></p><p lang=\"sv\"><span><span><span style=\"color:black\">26% of the Swedish population had a foreign background in 2021*. So having an accent, like Ahmed does, can even be an advantage in customer meetings.</span></span></span></p><p lang=\"sv\"><span><span>*According to SCB’s (Statistics Sweden) definition: born abroad or with both parents born abroad.</span></span></p>",
+      "_incorrect": {
+        "final": "<p lang=\"sv\"><span><span><span style=\"color:black\">Good guess but not quite right.</span></span></span></p><p lang=\"sv\"><span><span><span style=\"color:black\">26% of the Swedish population had a foreign background in 2020*. So having an accent, like Ahmed does, can even be a strength in customer meetings.</span></span></span></p><p lang=\"sv\"><span><span>*According to SCB’s (Statistics Sweden) definition: born abroad or with both parents born abroad.</span></span></p>",
+        "notFinal": "<p><span><span><span style=\"color:black\">Good guess but not quite right</span></span></span>.</p><p><span><span><span style=\"color:black\">Try again.</span></span></span></p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "flipcard",
+    "_classes": "half-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Tips",
+    "displayTitle": "Tips",
+    "body": "<p><span><span>What can you do to include others? </span></span></p>",
+    "_id": "630629df2e59cf12be74eb12",
+    "_parentId": "630629de2e59cf12be74ea7f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the images for tips on what to do in different scenarios.",
+    "_flipType": "allFlip",
+    "_flipTime": 400,
+    "_items": [
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "A confidential meeting and handshake between two people.",
+          "src": "course/en/assets/62a1cb2c09df4f658cf2ab77.png"
+        },
+        "backTitle": "Encourage others!",
+        "backBody": "<p>Encourage everyone who wants to have their say in meetings, for example by asking those who don’t usually say anything. Draw others into the conversation and help them find their confidence to speak.</p>"
+      },
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "One person in a group of people. She is looking satisfied and comfortable.",
+          "src": "course/en/assets/62a1cb9568db890cc916bac1.png"
+        },
+        "backTitle": "Be aware of your preconceptions!",
+        "backBody": "<ul><li>Try to understand your own preconceptions and those of others, as well as the norms that prevail.</li><li>Be interested. Don’t take it for granted that everyone thinks the same way you do.</li><li><strong>Don’t</strong> make any important decisions when you are too tired, hungry or stressed – this is often when our prejudices come to the fore.</li><li>Evaluate your own decisions. Have they benefitted or disadvantaged particular people?</li></ul>"
+      },
+      {
+        "_flipDirection": "horizontal",
+        "frontImage": {
+          "alt": "Close-up of a foot taking a step.",
+          "src": "course/en/assets/62b9bd94f9e24614b64862e4.jpg"
+        },
+        "backTitle": "Don’t be afraid to act!",
+        "backBody": "<ul><li>Speak up when something isn’t right. Challenge comments or jokes that don’t sit well, for example. </li><li>Give positive feedback to a colleague who has acted in an inclusive manner. </li><li>Encourage everyone who wants to have their say at meetings. </li><li>Actively listen when others are speaking.  </li><li>Strike up a conversation with someone you otherwise wouldn’t talk to.  </li><li>Ask interested questions. </li><li>Suggest ways in which your workplace can be more inclusive.</li><li>Make demands of your employer. Say what you think about the work environment during staff meetings or appraisals.</li></ul>"
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "align-block",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "What advice would you give?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb14",
+    "_parentId": "630629de2e59cf12be74ea81",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Ahmed in the corridor.",
+      "large": "course/en/assets/62a6f3b868db890cc916bb09.png",
+      "small": "course/en/assets/62a6f3b868db890cc916bb09.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Info box ",
+    "displayTitle": "",
+    "body": "<p><strong>Name</strong>: Helena Eriksson</p><p><strong>Age:</strong> 49</p><p><strong>Job:</strong> Retail sales assistant</p><p><strong>Family:</strong> Married to Leif, two children from a previous marriage and their own younger child</p><p><strong>Home:</strong> Townhouse</p><p><strong>More about me:</strong> Loves to potter in the garden and can’t wait for grandchildren</p>",
+    "_id": "630629df2e59cf12be74eb16",
+    "_parentId": "630629de2e59cf12be74ea83",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Info box (POSSIBLY NON-VISIBLE HEADING)",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb18",
+    "_parentId": "630629de2e59cf12be74ea83",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Picture of Helena.",
+      "large": "course/en/assets/62a305f009df4f658cf2ab8c.png",
+      "small": "course/en/assets/62a305f009df4f658cf2ab8c.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "half-component",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "It’s better if everyone gets to join in (FILM)",
+    "displayTitle": "It’s better if everyone gets to join in",
+    "body": "<p><span class=\"screen-reader-text\">This film has no audio description. A textual alternative follows the film if you prefer to read.</span></p>",
+    "_id": "630629df2e59cf12be74eb1a",
+    "_parentId": "630629de2e59cf12be74ea85",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the play button to start the film. If you want to use the textual alternative, click the “Read instead of watching” button.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://vimeo.com/725200952/6019e10144",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "sv",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": true,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "Read instead of watching",
+      "inlineTranscriptCloseButton": "Close",
+      "inlineTranscriptBody": "<p><i>Helena is standing and waiting, on the way out to lunch. A colleague joins her.</i></p><p><strong>Helena: </strong>Hi! We’ll just wait for the others – it’s great that you all want to come and celebrate!</p><p><strong>Colleague</strong> <i>(upper middle-aged)</i>: Of course! It’s not every day we get to celebrate with a 50th birthday lunch you know – it’s great you invited us all!</p><p><strong>Helena: </strong>Well, 50 is pretty old but… Ah, here come John and Anna too – shall we go then? <i>(picking up her coat and bag and getting ready to open the door)</i></p><p><strong>Colleague:</strong> <i>(surprised) </i>Oh, are Juan and Sun Yi not coming? They were just packing up the last few things in the storeroom, so they’ll also be ready soon to...</p><p><strong>Helena:</strong> <i>(looking a little uncomfortable) </i>No, I thought… well, I didn’t ask them. They only speak English…</p><p><i>Her colleague looks hesitant so Helena continues explaining herself:</i></p><p><strong>Helena:</strong> <i>(sounding a little sharp)</i> Well, they are younger than my own children after all. It just feels weird to invite them – I’m sure they won’t think it’s cool to be around someone of my age.</p>",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": null
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Are norms good or bad?",
+    "displayTitle": "Are norms good or bad?",
+    "body": "<p>Norms can be both positive and negative.</p><p>Norms mean that we are used to things being a certain way. They can be found everywhere and are needed in our society. We can say they work as a kind of template for the way we act, unwritten rules that we follow. A simple example is the way we queue.</p><p>But norms can also affect how we live, look or express ourselves. Norms are noticed when they are broken, and it takes a lot of energy to feel different, adapt and try not to stick out. It’s important we allow one another to break the norm without calling this into question.</p>",
+    "_id": "630629df2e59cf12be74eb20",
+    "_parentId": "630629de2e59cf12be74ea8b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "What happened?",
+    "displayTitle": "What happened?",
+    "body": "<p>This film shows norms from a different perspective. It seems that Helena would prefer to be around people who speak the same language – Swedish is the norm. She also seems to think that the younger people wouldn’t want to be around her as she’s nearly 50 – the norm being to go out with people of a similar age.</p><p>The norm means the most common profile or background when it comes to gender, age or ethnicity, for example. If you aren’t aware of the norm, you are probably part of it.</p><p> </p>",
+    "_id": "630629df2e59cf12be74eb1c",
+    "_parentId": "630629de2e59cf12be74ea88",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "align-block",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "What happened?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb1e",
+    "_parentId": "630629de2e59cf12be74ea88",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Question mark.",
+      "large": "course/en/assets/62b9aa34d4132512c4acc319.png",
+      "small": "course/en/assets/62b9aa34d4132512c4acc319.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "align-block",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Are norms good or bad?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb22",
+    "_parentId": "630629de2e59cf12be74ea8b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "One thumbs up, one thumbs down",
+      "large": "course/en/assets/62a8347468db890cc916bb32.png",
+      "small": "course/en/assets/62a8347468db890cc916bb32.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "align-block",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "When the norm becomes destructive",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb26",
+    "_parentId": "630629de2e59cf12be74ead0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Two people are sitting on stone steps. One is holding the other in a protective gesture. They have a rainbow flag in their hands. ",
+      "large": "course/en/assets/62b9bbabf9e24614b64862e2.jpg",
+      "small": "course/en/assets/62b9bbabf9e24614b64862e2.jpg",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "col-2",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "When the norm becomes damaging",
+    "displayTitle": "When the norm becomes damaging",
+    "body": "<p lang=\"sv\">People who don’t fit in become excluded more often. It can also lead to discrimination, which is prohibited by law at the workplace. Action may be brought against the employer if someone is mistreated on the basis of one of the seven protected grounds of discrimination:</p><ul><li lang=\"sv\">Gender</li><li lang=\"sv\">Transgender identity or gender expression </li><li lang=\"sv\">Ethnicity</li><li lang=\"sv\">Religion or beliefs</li><li lang=\"sv\">Disability</li><li lang=\"sv\">Sexual orientation</li><li lang=\"sv\">Age</li></ul><p>If you think you have been discriminated against, you can talk to your manager, HR or your trade union. More help is available through the links provided at the end of this course.</p>",
+    "_id": "630629df2e59cf12be74eb24",
+    "_parentId": "630629de2e59cf12be74ea8e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "align-block",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "How do you think it would feel if…",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb28",
+    "_parentId": "630629de2e59cf12be74eaac",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Question mark.",
+      "large": "course/en/assets/62a754a376d2060c9a6492a3.png",
+      "small": "course/en/assets/62a754a376d2060c9a6492a3.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Tips",
+    "displayTitle": "Tips",
+    "body": "<p lang=\"sv\">What can we do to break the norms?</p><p lang=\"sv\">Among other things, we can learn to avoid the most common pitfalls in language and jargon.</p>",
+    "_id": "630629df2e59cf12be74eb2a",
+    "_parentId": "630629de2e59cf12be74ea91",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Click the buttons with headings to read more.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Female doctor or doctor?",
+        "body": "<p lang=\"sv\">Often we say “female doctor” – while male doctors are just referred to as “doctors”. By doing so, we are indicating that male doctors are the norm and female doctors are not. And this is despite the fact that there are actually more women than men who work as doctors in Sweden!</p><p lang=\"sv\">There are many examples of this phenomenon. For example football/women’s football or prime minister/female prime minister. You can no doubt think of others.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "And you’re so young too!",
+        "body": "<p lang=\"sv\">Such a remark might seem harmless, but it can be tough for anyone who has to hear it all the time.</p><p lang=\"sv\">It indicates that you are different because of your age and suggests you are unexperienced.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Have you got a girlfriend?",
+        "body": "<p>This type of question might also seem harmless. But it comes from the heterosexual norm that far from everyone identifies with.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Skin-coloured plaster",
+        "body": "<p lang=\"sv\">What is actually “skin-coloured”?</p><p lang=\"sv\">When we refer to beige-coloured plasters as skin-coloured we are reinforcing the norm that says dark skin is different from the norm.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Who to contact",
+    "displayTitle": "Who to contact",
+    "body": "<p>If you think you have been discriminated against, you can talk to your manager, HR or your trade union. Or contact an organisation that can help you.</p><p>Here are some links for some anti-discrimination organisations and authorities.</p><p>Link:<br /><a href=\"https://mittliv.com/se/e-learning\" target=\"_blank\">Mitt Liv homepage/advice on discrimination (opens in a new window)</a></p>",
+    "_id": "630629df2e59cf12be74eb2e",
+    "_parentId": "630629de2e59cf12be74ea99",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb30",
+    "_parentId": "630629de2e59cf12be74eaca",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Symbols for diversity and inclusion in the training: rainbow and heart.",
+      "large": "course/en/assets/62a83a0168db890cc916bb34.png",
+      "small": "course/en/assets/62a83a0168db890cc916bb34.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "You’ve nearly finished",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb2c",
+    "_parentId": "630629de2e59cf12be74ea95",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Low-angle perspective of a group of smiling people, all looking at the viewer in a friendly way",
+      "large": "course/en/assets/62b9b625c0440812be4ee0d7.jpg",
+      "small": "course/en/assets/62b9b625c0440812be4ee0d7.jpg",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "You can make a difference!",
+    "displayTitle": "You can make a difference!",
+    "body": "<p>It’s important for us to learn how to see, accept and value our differences. By being interested and inclusive, you can make a big difference in your own and other people’s working day.</p><p>In the sections that follow, you will meet three people and learn more about diversity and inclusion. Good luck!</p>",
+    "_id": "630629df2e59cf12be74eb32",
+    "_parentId": "630629de2e59cf12be74ea9d",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "branching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "What would you do?",
+    "displayTitle": "What would you do?",
+    "body": "<p>It’s Monday morning and you’re on your way to the coffee machine for your first cup of the day. Some colleagues are there already. They seem to be in the middle of a lively conversation about the big handball game at the weekend. You know that Ahmed is a big handball fan and had tickets to the game. Despite this, you notice he’s not joining in the conversation, although you suspect that he would like to.</p>",
+    "_id": "630629df2e59cf12be74eb38",
+    "_parentId": "630629de2e59cf12be74eaa0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "What would you do to assist Ahmed? Select your answers by clicking the buttons.",
+    "scoreLabel": "Score",
+    "waitingOnMediaText": "",
+    "_allowUserToControlMedia": true,
+    "_isFullLayoutMode": true,
+    "_shouldShowNarrativeAboveMedia": false,
+    "retryLastOptionLabel": "Try another option",
+    "resetLabel": "Start again from the beginning",
+    "questionLabel": "Question",
+    "youAnsweredWithLabel": "Your answer",
+    "breakdownTitleLabel": "Break down your answers",
+    "_items": [
+      {
+        "_id": "c4537bdd-c5d4-9058-d200-34541b326481",
+        "_parentId": "",
+        "text": "",
+        "_isEditorItemSelected": true,
+        "_media": {
+          "_shouldAllowMediaToFinish": false,
+          "mp4": "",
+          "graphic": "",
+          "mp3": "",
+          "alt": ""
+        },
+        "_children": [
+          {
+            "_id": "4e405a59-ade7-5278-b811-7898667ded69",
+            "_parentId": "c4537bdd-c5d4-9058-d200-34541b326481",
+            "text": "a) Jag säger: ”Pratar ni om handbollsmatchen?<br>Ahmed, du var väl där? Hur var det?",
+            "_isEditorItemSelected": true,
+            "_media": {
+              "_shouldAllowMediaToFinish": false,
+              "mp4": "",
+              "graphic": "",
+              "mp3": "",
+              "alt": ""
+            },
+            "_children": [],
+            "_index": "1/3",
+            "_shouldHideRetryButtons": false,
+            "_shouldShowBreakdown": false,
+            "_isBridgeItem": false,
+            "_score": null,
+            "_narrative": {
+              "title": "",
+              "body": ""
+            },
+            "_question": {
+              "stem": ""
+            },
+            "_feedback": {
+              "text": "<p><strong>Bra agerat!</strong></p><p>Du vet att Ahmed hade biljetter till matchen. S&aring; att fr&aring;ga honom direkt &auml;r kanske det mest effektiva s&auml;tt att f&aring; in just honom i samtalet. Ett annat s&auml;tt skulle kunna vara att st&auml;lla fr&aring;gan bredare och fr&aring;ga om vilka som var p&aring; matchen.</p><p>L&auml;s g&auml;rna de andra alternativen ocks&aring;.</p>"
+            }
+          },
+          {
+            "_id": "9229e9e6-d406-4610-b679-773c47421aaf",
+            "_parentId": "c4537bdd-c5d4-9058-d200-34541b326481",
+            "text": "b) Jag börjar prata med Ahmed så att han inte ska känna sig ensam.",
+            "_isEditorItemSelected": false,
+            "_media": {
+              "_shouldAllowMediaToFinish": false,
+              "mp4": "",
+              "graphic": "",
+              "mp3": "",
+              "alt": ""
+            },
+            "_children": [],
+            "_index": "2/3",
+            "_shouldHideRetryButtons": false,
+            "_shouldShowBreakdown": false,
+            "_isBridgeItem": false,
+            "_score": null,
+            "_narrative": {
+              "title": "",
+              "body": ""
+            },
+            "_question": {
+              "stem": ""
+            },
+            "_feedback": {
+              "text": "<p>Kan du hj&auml;lpa Ahmed?</p><p>H&auml;r visar du att du ser att Ahmed k&auml;nner sig utanf&ouml;r. Men risken finns att han k&auml;nner sig &auml;nnu mer utanf&ouml;r d&aring; han helst hade velat vara med och pratat om handboll. Fundera om det finns n&aring;got annat s&auml;tt att f&aring; in Ahmed i samtalet.</p><p>L&auml;s g&auml;rna de andra alternativen ocks&aring;.</p>"
+            }
+          },
+          {
+            "_id": "d9c604c5-6377-5c0a-e6e3-89b18c7c78dc",
+            "_parentId": "c4537bdd-c5d4-9058-d200-34541b326481",
+            "text": "c) Jag säger: ”Pratar ni om handbollsmatchen?<br>Var det någon av er som var där?”",
+            "_isEditorItemSelected": false,
+            "_media": {
+              "_shouldAllowMediaToFinish": false,
+              "mp4": "",
+              "graphic": "",
+              "mp3": "",
+              "alt": ""
+            },
+            "_children": [],
+            "_index": "3/3",
+            "_shouldHideRetryButtons": false,
+            "_shouldShowBreakdown": false,
+            "_isBridgeItem": false,
+            "_score": null,
+            "_narrative": {
+              "title": "",
+              "body": ""
+            },
+            "_question": {
+              "stem": ""
+            },
+            "_feedback": {
+              "text": "<p>Inte alls dumt t&auml;nkt!</p><p>N&auml;r du st&auml;ller fr&aring;gan &ouml;ppet bjuder du in alla att svara. Men i det h&auml;r fallet vet du att Ahmed var p&aring; matchen och du tror att han vill f&aring; hj&auml;lp att komma in i samtalet. S&aring; alternativet att fr&aring;ga honom direkt om hur det var &auml;r ocks&aring; bra!</p><p>L&auml;s g&auml;rna de andra alternativen ocks&aring;.</p>"
+            }
+          }
+        ],
+        "_shouldHideRetryButtons": false,
+        "_shouldShowBreakdown": true,
+        "_isBridgeItem": false,
+        "_score": null,
+        "_narrative": {
+          "title": "",
+          "body": ""
+        },
+        "_question": {
+          "stem": "<p>What would you do?</p>"
+        },
+        "_feedback": {
+          "text": ""
+        }
+      },
+      {
+        "_id": "4e405a59-ade7-5278-b811-7898667ded69",
+        "_parentId": "c4537bdd-c5d4-9058-d200-34541b326481",
+        "text": "a) I would say: “Are you talking about the handball game?<br>Ahmed, you were there weren’t you? How was it?",
+        "_isEditorItemSelected": true,
+        "_media": {
+          "_shouldAllowMediaToFinish": false,
+          "mp4": "",
+          "graphic": "",
+          "mp3": "",
+          "alt": ""
+        },
+        "_children": [],
+        "_index": "1/3",
+        "_shouldHideRetryButtons": false,
+        "_shouldShowBreakdown": false,
+        "_isBridgeItem": false,
+        "_score": null,
+        "_narrative": {
+          "title": "",
+          "body": ""
+        },
+        "_question": {
+          "stem": ""
+        },
+        "_feedback": {
+          "text": "<p>Well done!</p><p>You know that Ahmed had tickets to the game. So asking him directly is perhaps the most effective way of getting him into the conversation. Another way would be to formulate the question more broadly and ask if anyone was at the game.</p><p>Feel free to read the other options too.</p>"
+        }
+      },
+      {
+        "_id": "9229e9e6-d406-4610-b679-773c47421aaf",
+        "_parentId": "c4537bdd-c5d4-9058-d200-34541b326481",
+        "text": "b) I would start talking to Ahmed so that he doesn’t feel alone.",
+        "_isEditorItemSelected": false,
+        "_media": {
+          "_shouldAllowMediaToFinish": false,
+          "mp4": "",
+          "graphic": "",
+          "mp3": "",
+          "alt": ""
+        },
+        "_children": [],
+        "_index": "2/3",
+        "_shouldHideRetryButtons": false,
+        "_shouldShowBreakdown": false,
+        "_isBridgeItem": false,
+        "_score": null,
+        "_narrative": {
+          "title": "",
+          "body": ""
+        },
+        "_question": {
+          "stem": ""
+        },
+        "_feedback": {
+          "text": "<p>Would this help Ahmed?</p><p>Here you are acknowledging that Ahmed feels excluded. But there is a risk he’ll feel even more excluded because he would have preferred to join in and talk about handball. Try to find another way to draw Ahmed into the conversation.</p><p>Feel free to read the other options too.</p>"
+        }
+      },
+      {
+        "_id": "d9c604c5-6377-5c0a-e6e3-89b18c7c78dc",
+        "_parentId": "c4537bdd-c5d4-9058-d200-34541b326481",
+        "text": "c) I would say: “Are you talking about the handball game?<br>Where any of you there?”",
+        "_isEditorItemSelected": false,
+        "_media": {
+          "_shouldAllowMediaToFinish": false,
+          "mp4": "",
+          "graphic": "",
+          "mp3": "",
+          "alt": ""
+        },
+        "_children": [],
+        "_index": "3/3",
+        "_shouldHideRetryButtons": false,
+        "_shouldShowBreakdown": false,
+        "_isBridgeItem": false,
+        "_score": null,
+        "_narrative": {
+          "title": "",
+          "body": ""
+        },
+        "_question": {
+          "stem": ""
+        },
+        "_feedback": {
+          "text": "<p>Not a bad idea at all!</p><p>By asking an open question you’re inviting everyone to answer. But in this case you know that Ahmed was at the game and you think he wants help to join in the conversation. So the option of asking him directly how the game was is also a good idea!</p><p>Feel free to read the other options too.</p>"
+        }
+      }
+    ],
+    "_feedback": []
+  },
+  {
+    "_component": "branching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "What would you do?",
+    "displayTitle": "What would you do?",
+    "body": "<p>Alicia is your colleague and you have become quite close. During a break, she tells you in confidence:</p><blockquote><p>When I tell people I have children with another woman they often look so surprised.</p><p>I never know how someone is going to react, so I’m always on edge when I’m talking to new people. If I’m talking to a new colleague, for example, do you think I should mention it? And when? What if they’re weird about it and then we have to work together?</p></blockquote>",
+    "_id": "630629df2e59cf12be74eb36",
+    "_parentId": "630629de2e59cf12be74ea71",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "What would you say in response to Alicia’s concerns? Select your answers by clicking the buttons.",
+    "scoreLabel": "",
+    "waitingOnMediaText": "",
+    "_allowUserToControlMedia": true,
+    "_isFullLayoutMode": true,
+    "_shouldShowNarrativeAboveMedia": false,
+    "retryLastOptionLabel": "Try another option",
+    "resetLabel": "Start again from the beginning",
+    "questionLabel": "Question",
+    "youAnsweredWithLabel": "Your answer",
+    "breakdownTitleLabel": "Break down your answers",
+    "_items": [
+      {
+        "_id": "f50cd65d-8b9e-087f-c81e-e3c47f7f4845",
+        "_parentId": "",
+        "text": "Item Text",
+        "_isEditorItemSelected": true,
+        "_media": {
+          "_shouldAllowMediaToFinish": false,
+          "mp4": "",
+          "graphic": "",
+          "mp3": "",
+          "alt": ""
+        },
+        "_children": [
+          {
+            "_id": "c0525e60-09e1-ee06-620c-e4ef6079f03a",
+            "_parentId": "f50cd65d-8b9e-087f-c81e-e3c47f7f4845",
+            "text": "a) Vad ledsen jag blir för din skull. Det du berättar är ju att du har barn. Du blir ju både ifrågasatt som förälder och för att du är sambo med en kvinna. Har du upplevt något sådant här?<br><br>Du behöver bara berätta om du vill!",
+            "_isEditorItemSelected": false,
+            "_media": {
+              "_shouldAllowMediaToFinish": false,
+              "mp4": "",
+              "graphic": "",
+              "mp3": "",
+              "alt": ""
+            },
+            "_children": [],
+            "_index": "1/3",
+            "_shouldHideRetryButtons": false,
+            "_shouldShowBreakdown": false,
+            "_isBridgeItem": false,
+            "_score": null,
+            "_narrative": {
+              "title": "",
+              "body": ""
+            },
+            "_question": {
+              "stem": ""
+            },
+            "_feedback": {
+              "text": "<p>R&auml;tt t&auml;nkt!</p><p>H&auml;r bekr&auml;ftade du Alicias k&auml;nslor av oro och stress att inte veta hur n&aring;gon ska reagera. Du &ouml;ppnar ocks&aring; upp f&ouml;r att Alicia f&aring;r dela med sig om det &auml;r n&aring;got p&aring; er arbetsplats som hon vill prata mer om.</p><p>L&auml;s g&auml;rna de andra alternativen ocks&aring;.</p>"
+            }
+          },
+          {
+            "_id": "b21caff7-e4e0-9c5d-45a2-0bfd4564b2b7",
+            "_parentId": "f50cd65d-8b9e-087f-c81e-e3c47f7f4845",
+            "text": "b) Vad tråkigt att höra. Men du ska veta att det här med att du har barn med en annan kvinna, du behöver inte oroa dig för att det är ett problem att prata om det här.",
+            "_isEditorItemSelected": false,
+            "_media": {
+              "_shouldAllowMediaToFinish": false,
+              "mp4": "",
+              "graphic": "",
+              "mp3": "",
+              "alt": ""
+            },
+            "_children": [],
+            "_index": "2/3",
+            "_shouldHideRetryButtons": false,
+            "_shouldShowBreakdown": false,
+            "_isBridgeItem": false,
+            "_score": null,
+            "_narrative": {
+              "title": "",
+              "body": ""
+            },
+            "_question": {
+              "stem": ""
+            },
+            "_feedback": {
+              "text": "<p>Har du t&auml;nkt p&aring; det h&auml;r?</p><p>Om du sj&auml;lv &auml;r hetero och tillh&ouml;r normen kanske du inte vet hur andra p&aring; din arbetsplats t&auml;nker och tycker om ni inte har pratat om det. Att s&auml;ga att Alicia inte beh&ouml;ver oroa sig &auml;r ocks&aring; att f&ouml;rminska hennes upplevda stress och oro</p><p>L&auml;s g&auml;rna de andra alternativen ocks&aring;.<br />&nbsp;</p>"
+            }
+          },
+          {
+            "_id": "a5717d0c-52b9-7e1e-d7e8-84fe6f266e09",
+            "_parentId": "f50cd65d-8b9e-087f-c81e-e3c47f7f4845",
+            "text": "c) Vad ledsen jag blir för din skull. Och samtidigt nyfiken, jag visste inte att du hade barn med en annan kvinna.<br><br>Jag måste bara få fråga, vilken är den vanligaste kommentaren du möter?",
+            "_isEditorItemSelected": true,
+            "_media": {
+              "_shouldAllowMediaToFinish": false,
+              "mp4": "",
+              "graphic": "",
+              "mp3": "",
+              "alt": ""
+            },
+            "_children": [],
+            "_index": "3/3",
+            "_shouldHideRetryButtons": false,
+            "_shouldShowBreakdown": false,
+            "_isBridgeItem": false,
+            "_score": null,
+            "_narrative": {
+              "title": "",
+              "body": ""
+            },
+            "_question": {
+              "stem": ""
+            },
+            "_feedback": {
+              "text": "<p><strong>Har du t&auml;nkt p&aring; det h&auml;r?</strong></p><p>Nyfikenhet &auml;r ofta bra. Men var f&ouml;rsiktig med vad du s&auml;ger n&auml;r, och f&ouml;rst&aring;s hur. Alicia har precis &ouml;ppnat upp om detta och dessutom varit tydlig med att hon &auml;r obekv&auml;m med &auml;mnet just nu.</p><p>Kanske finns det andra s&auml;tt att bem&ouml;ta det hon s&auml;ger och d&auml;r du fortfarande bjuder in henne att forts&auml;tta prata med dig om hon vill?</p><p>L&auml;s g&auml;rna de andra alternativen ocks&aring;.<br />&nbsp;</p>"
+            }
+          }
+        ],
+        "_shouldHideRetryButtons": false,
+        "_shouldShowBreakdown": true,
+        "_isBridgeItem": false,
+        "_score": null,
+        "_narrative": {
+          "title": "",
+          "body": ""
+        },
+        "_question": {
+          "stem": "<p>How would you respond?</p>"
+        },
+        "_feedback": {
+          "text": ""
+        }
+      },
+      {
+        "_id": "c0525e60-09e1-ee06-620c-e4ef6079f03a",
+        "_parentId": "f50cd65d-8b9e-087f-c81e-e3c47f7f4845",
+        "text": "a) That’s really awful for you. You’re only telling them that you’ve got children after all. They’re questioning you both as a parent and because you live with a woman. Have you experienced anything like this here?<br><br>Just say if there’s anything you want to mention!",
+        "_isEditorItemSelected": false,
+        "_media": {
+          "_shouldAllowMediaToFinish": false,
+          "mp4": "",
+          "graphic": "",
+          "mp3": "",
+          "alt": ""
+        },
+        "_children": [],
+        "_index": "1/3",
+        "_shouldHideRetryButtons": false,
+        "_shouldShowBreakdown": false,
+        "_isBridgeItem": false,
+        "_score": null,
+        "_narrative": {
+          "title": "",
+          "body": ""
+        },
+        "_question": {
+          "stem": ""
+        },
+        "_feedback": {
+          "text": "<p>Nicely done!</p><p>Here you are acknowledging Alicia’s feelings of worry and stress about not knowing how someone is going to react. You are also opening up the possibility for Alicia to share things with you if there’s anything at your workplace she wants to talk more about.</p><p>Feel free to read the other options too.</p>"
+        }
+      },
+      {
+        "_id": "b21caff7-e4e0-9c5d-45a2-0bfd4564b2b7",
+        "_parentId": "f50cd65d-8b9e-087f-c81e-e3c47f7f4845",
+        "text": "b) I’m sorry to hear that. But you should know that, this thing about having children with another woman, you don’t need to worry about mentioning it here, it’s not a problem.",
+        "_isEditorItemSelected": false,
+        "_media": {
+          "_shouldAllowMediaToFinish": false,
+          "mp4": "",
+          "graphic": "",
+          "mp3": "",
+          "alt": ""
+        },
+        "_children": [],
+        "_index": "2/3",
+        "_shouldHideRetryButtons": false,
+        "_shouldShowBreakdown": false,
+        "_isBridgeItem": false,
+        "_score": null,
+        "_narrative": {
+          "title": "",
+          "body": ""
+        },
+        "_question": {
+          "stem": ""
+        },
+        "_feedback": {
+          "text": "<p>Have you thought about this?</p><p>If you’re heterosexual yourself and fit in with the norm you might not know what other people at your workplace think and feel if you haven’t talked about it. Saying that Alicia doesn’t need to worry also belittles the stress and worry she has felt</p><p>Feel free to read the other options too.<br /> </p>"
+        }
+      },
+      {
+        "_id": "a5717d0c-52b9-7e1e-d7e8-84fe6f266e09",
+        "_parentId": "f50cd65d-8b9e-087f-c81e-e3c47f7f4845",
+        "text": "c) That’s really awful for you. And interesting at the same time – I didn’t know you had children with another woman.<br><br>I’ve just got to ask, what comments do you get most often?",
+        "_isEditorItemSelected": true,
+        "_media": {
+          "_shouldAllowMediaToFinish": false,
+          "mp4": "",
+          "graphic": "",
+          "mp3": "",
+          "alt": ""
+        },
+        "_children": [],
+        "_index": "3/3",
+        "_shouldHideRetryButtons": false,
+        "_shouldShowBreakdown": false,
+        "_isBridgeItem": false,
+        "_score": null,
+        "_narrative": {
+          "title": "",
+          "body": ""
+        },
+        "_question": {
+          "stem": ""
+        },
+        "_feedback": {
+          "text": "<p>Have you thought about this?</p><p>Showing an interest is often good. But be careful about what you say when, and of course, how. Alicia has just opened up about this and also made it clear she’s uncomfortable with the subject at the moment.</p><p>Perhaps there are other ways to respond to what she’s saying that encourage her to continue talking to you if she wants to.</p><p>Feel free to read the other options too.<br /> </p>"
+        }
+      }
+    ],
+    "_feedback": []
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "You can make a difference!",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb34",
+    "_parentId": "630629de2e59cf12be74ea9d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "A handshake.",
+      "large": "course/en/assets/62ac94955816971143c1c080.png",
+      "small": "course/en/assets/62ac94955816971143c1c080.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "col-2",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "You’ve nearly finished",
+    "displayTitle": "You’ve nearly finished",
+    "body": "<p>Thanks for taking the time to complete this introductory training on diversity and inclusion and why these are important at the workplace. We have gone through some examples of what diversity and inclusion are at work and what can happen when things go wrong. We have seen the risks and benefits that diversity and inclusion can bring, both for the individual, the group and for the business.</p><p>We now know that everyone feels better when the level of diversity is high and when we include one another. That’s why we have also learned some tools for increasing diversity and inclusion in the workplace. Last but not least: Diversity and inclusion are everyone’s responsibility, both yours and mine.</p><p>Good luck!</p>",
+    "_id": "630629df2e59cf12be74eb3a",
+    "_parentId": "630629de2e59cf12be74eaa3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "skroll-img-bottom",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Continue",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb3e",
+    "_parentId": "630629de2e59cf12be74eaa9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "You have now finished this section and can continue to the next.",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6298a5b968db890cc916ba3b.png",
+      "small": "course/en/assets/6298a5b968db890cc916ba3b.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "skroll-img-bottom",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Continue",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb3c",
+    "_parentId": "630629de2e59cf12be74eaa6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "You have now finished this section and can continue to the next.",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6298a5b968db890cc916ba3b.png",
+      "small": "course/en/assets/6298a5b968db890cc916ba3b.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "What advice would you give?",
+    "displayTitle": "What advice would you give?",
+    "body": "<p>A little later that day, you see Ahmed in the corridor and he stops warily as you meet. He looks a little uncertain as he says:</p><blockquote><p>You are so good at drawing people into the conversation. How do you do it? And what can I do to provide my own input. It&rsquo;s so difficult.</p></blockquote><p>What advice would you give to Ahmed?</p>",
+    "_id": "630629df2e59cf12be74eb40",
+    "_parentId": "630629de2e59cf12be74ea81",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "instruction": "Select one of the options below and click the Submit button.",
+    "_items": [
+      {
+        "text": "Pick up on something someone says or ask an interested question.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Raising your hand always works. No one can ignore that.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The louder you speak the more others will listen.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Good thinking!</p><p>Picking up on something someone says or asking an interested question are good ways to join in a conversation. And remember: It&rsquo;s always better to ask than to assume anything. Often we don&rsquo;t know one another as well as we think we do.</p>",
+      "_incorrect": {
+        "final": "<p>Well, perhaps not.</p><p>It&rsquo;s probably better to try and join the conversation in another way. What about picking up on something someone else says, or asking an interested question?</p>",
+        "notFinal": "<p>Well, perhaps not.</p><p>It&rsquo;s probably better to try and join the conversation in another way. What about picking up on something someone else says, or asking an interested question?</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Partly right.</p><p>Picking up on something someone says or asking an interested question are good ways to join in a conversation. And remember: It&rsquo;s always better to ask than to assume anything. Often we don&rsquo;t know one another as well as we think we do.</p>",
+        "notFinal": "<p>Partly right.</p><p>Try again.</p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "skroll-img-bottom",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Text",
+    "displayTitle": "",
+    "body": "<p style=\"text-align:center\">You have now completed the entire training and can close the browser window.</p>",
+    "_id": "630629df2e59cf12be74eb48",
+    "_parentId": "630629de2e59cf12be74eab2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "skroll-img-bottom",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Continue",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb44",
+    "_parentId": "630629de2e59cf12be74eaaf",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "You have now finished this section and can continue to the next.",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6298a5b968db890cc916ba3b.png",
+      "small": "course/en/assets/6298a5b968db890cc916ba3b.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "skroll-img-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Continue",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb46",
+    "_parentId": "630629de2e59cf12be74eab5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "You have now finished this section and can continue to the next.",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6298a5b968db890cc916ba3b.png",
+      "small": "course/en/assets/6298a5b968db890cc916ba3b.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "How do you think it would feel if…",
+    "displayTitle": "How do you think it would feel if…",
+    "body": "<p lang=\"sv\">Now you have a chance to reflect a little.</p><p lang=\"sv\">You are going to see different continuations of the question: Do you think you should be treated differently at work if you…?</p>",
+    "_id": "630629df2e59cf12be74eb42",
+    "_parentId": "630629de2e59cf12be74eaac",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Select one or more of the options below that you think is/are correct and click the Submit button.",
+    "_items": [
+      {
+        "text": "… have a different educational background?",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "… are really young or approaching retirement age?",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "... have a different ethnic background to the majority?",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "… are gay or trans?",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "… are new to the workplace?",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "… are a practising believer?",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "… have worked for a long time in the same place?",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "… belong to the opposite sex? ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "… have an hearing impairment?",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 999,
+    "_feedback": {
+      "title": "",
+      "correct": "<p lang=\"sv\"><span><span><span style=\"color:black\">Thanks for your answers! </span></span></span></p><p lang=\"sv\"><span><span><span style=\"color:black\">It’s a useful exercise to try and put yourself in someone else’s shoes. This helps us understand one another and ourselves better – and we become more skilled at being inclusive and looking after one another at the workplace. </span></span></span></p><p lang=\"sv\"><span><span><span style=\"color:black\">You can no doubt think of other situations where you might be treated differently. How do you think it would feel?</span></span></span></p>",
+      "_incorrect": {
+        "final": "<p lang=\"sv\"><span><span><span style=\"color:black\">Thanks for your answers! </span></span></span></p><p lang=\"sv\"><span><span><span style=\"color:black\">It’s a useful exercise to try and put yourself in someone else’s shoes. This helps us understand one another and ourselves better – and we become more skilled at being inclusive and looking after one another at the workplace. </span></span></span></p><p lang=\"sv\"><span><span><span style=\"color:black\">You can no doubt think of other situations where you might be treated differently. How do you think it would feel?</span></span></span></p>",
+        "notFinal": "<p lang=\"sv\"><span><span><span style=\"color:black\">Thanks for your answers! </span></span></span></p><p lang=\"sv\"><span><span><span style=\"color:black\">It’s a useful exercise to try and put yourself in someone else’s shoes. This helps us understand one another and ourselves better – and we become more skilled at being inclusive and looking after one another at the workplace. </span></span></span></p><p lang=\"sv\"><span><span><span style=\"color:black\">You can no doubt think of other situations where you might be treated differently. How do you think it would feel?</span></span></span></p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p lang=\"sv\"><span><span><span style=\"color:black\">Thanks for your answers! </span></span></span></p><p lang=\"sv\"><span><span><span style=\"color:black\">It’s a useful exercise to try and put yourself in someone else’s shoes. This helps us understand one another and ourselves better – and we become more skilled at being inclusive and looking after one another at the workplace. </span></span></span></p><p lang=\"sv\"><span><span><span style=\"color:black\">You can no doubt think of other situations where you might be treated differently. How do you think it would feel?</span></span></span></p>",
+        "notFinal": "<p lang=\"sv\"><span><span><span style=\"color:black\">Thanks for your answers! </span></span></span></p><p lang=\"sv\"><span><span><span style=\"color:black\">It’s a useful exercise to try and put yourself in someone else’s shoes. This helps us understand one another and ourselves better – and we become more skilled at being inclusive and looking after one another at the workplace. </span></span></span></p><p lang=\"sv\"><span><span><span style=\"color:black\">You can no doubt think of other situations where you might be treated differently. How do you think it would feel?</span></span></span></p>"
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "skroll-img-top ",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb4c",
+    "_parentId": "630629de2e59cf12be74eabb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": true,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Scroll down!",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6298a1d29ea72765869115f0.png",
+      "small": "course/en/assets/6298a1d29ea72765869115f0.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "skroll-img-top",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb4a",
+    "_parentId": "630629de2e59cf12be74eab8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Scroll down!",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6298a1d29ea72765869115f0.png",
+      "small": "course/en/assets/6298a1d29ea72765869115f0.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "skroll-img-top",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb4e",
+    "_parentId": "630629de2e59cf12be74eabe",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Scroll down!",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6298a1d29ea72765869115f0.png",
+      "small": "course/en/assets/6298a1d29ea72765869115f0.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "skroll-img-top",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb51",
+    "_parentId": "630629de2e59cf12be74eac1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Scroll down!",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6298a1d29ea72765869115f0.png",
+      "small": "course/en/assets/6298a1d29ea72765869115f0.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "skroll-img-top",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb57",
+    "_parentId": "630629de2e59cf12be74eac6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Scroll down!",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6298a1d29ea72765869115f0.png",
+      "small": "course/en/assets/6298a1d29ea72765869115f0.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "skroll-img-top",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb54",
+    "_parentId": "630629de2e59cf12be74eac4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Scroll down!",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6298a1d29ea72765869115f0.png",
+      "small": "course/en/assets/6298a1d29ea72765869115f0.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "align-block",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "People are like icebergs",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb5d",
+    "_parentId": "630629de2e59cf12be74ea6b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Most of an iceberg is underwater, not above the surface.",
+      "large": "course/en/assets/62b9c12cd4132512c4acc31b.jpg",
+      "small": "course/en/assets/62b9c12cd4132512c4acc31b.jpg",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb59",
+    "_parentId": "630629de2e59cf12be74ea59",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/612f6b36ef6ecd4b79fcdc46.png",
+      "small": "course/en/assets/612f6b36ef6ecd4b79fcdc46.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "skroll-img-bottom",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Continue",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb5b",
+    "_parentId": "630629de2e59cf12be74eac8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "You have now finished this section and can continue to the next.",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6298a5b968db890cc916ba3b.png",
+      "small": "course/en/assets/6298a5b968db890cc916ba3b.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb5f",
+    "_parentId": "630629de2e59cf12be74ea91",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Speech bubble with three jigsaw pieces, one of the pieces lying on its own, outside the puzzle.",
+      "large": "course/en/assets/62b9af06f9e24614b64862df.png",
+      "small": "course/en/assets/62b9af06f9e24614b64862df.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb61",
+    "_parentId": "630629de2e59cf12be74eace",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Coffee break in the kitchen. Ahmed is standing holding a cup of coffee and is not being included in the colleagues’ conversation.",
+      "large": "course/en/assets/62a6e74f68db890cc916bb07.jpg",
+      "small": "course/en/assets/62a6e74f68db890cc916bb07.jpg",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "What would you do?",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb63",
+    "_parentId": "630629de2e59cf12be74eacc",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Alicia is sitting on a sofa in the office, looking worried. ",
+      "large": "course/en/assets/62a6e9879ea72765869116af.jpg",
+      "small": "course/en/assets/62a6e9879ea72765869116af.jpg",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "align-component",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Did you know that…?",
+    "displayTitle": "",
+    "body": "<p>Several studies have shown that companies with gender-balanced management boards and executive teams are much more profitable and have much higher earnings than those that are unequal. Companies that have an ethnic and cultural balance and people with disabilities on their management boards and executive teams do even better.</p>",
+    "_id": "630629df2e59cf12be74eb65",
+    "_parentId": "630629de2e59cf12be74ea5d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "col-2",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "title": "Prejudice and bias",
+    "displayTitle": "Prejudice and bias",
+    "body": "<p>Prejudice exists when we have a negative attitude or negative feelings and thoughts about a group and individuals in this group. Everyone is prejudiced, and we’re mostly unaware of it. In most cases, prejudice is based on being part of a group, appearance or something else that distinguishes “them” from “us”.</p><p>Prejudice is linked to bias. Bias stems from the shortcuts our brain makes in order to simplify the world around us and such shortcuts are not logical. They reinforce the image we already have instead of making us open to the possibility of other options.</p><p>There are over a hundred different types of bias. The manager in the film has been influenced by a bias known as the horn effect. This is when someone interprets one particular trait as a deficiency, and assumes that other skills are also deficient – despite the fact that one has nothing to do with the other.</p><p>Examples of other common types of bias are when we think that someone is great because they like the same music we do. Or we think that good-looking people are both smart and good-looking.</p>",
+    "_id": "630629df2e59cf12be74eb67",
+    "_parentId": "630629de2e59cf12be74ead2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "title": "Graphic",
+    "displayTitle": "",
+    "body": "",
+    "_id": "630629df2e59cf12be74eb69",
+    "_parentId": "630629de2e59cf12be74ea99",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_tutor": {
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Heart.",
+      "large": "course/en/assets/62ac927e5816971143c1c07e.png",
+      "small": "course/en/assets/62ac927e5816971143c1c07e.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    }
+  }
+]

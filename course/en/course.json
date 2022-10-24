@@ -1,0 +1,265 @@
+{
+  "title": "Diversity and inclusion (Mitt Liv logo) (EN)",
+  "displayTitle": "Diversity and inclusion",
+  "body": "<p>This training is about diversity and inclusion and why these are important at work.</p><p>You will learn what diversity and inclusion are and be given tips on ways to think and act in different situations.</p><p>Diversity and inclusion are everyone&rsquo;s responsibility and this training is therefore for everyone who works for us.</p><p><a href=\"#/630629dd2e59cf12be74e9e7\" title=\"How to navigate\">How to navigate in the training</a></p>",
+  "description": "",
+  "_latestTrackingId": 52,
+  "_language": "en",
+  "_multilanguage": [],
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Submit"
+    },
+    "_reset": {
+      "buttonText": "Try again!",
+      "ariaLabel": "Try again!"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Correct answer",
+      "ariaLabel": "Correct answer"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "My answer",
+      "ariaLabel": "My answer"
+    },
+    "_showFeedback": {
+      "buttonText": "Feedback",
+      "ariaLabel": "Feedback"
+    },
+    "remainingAttemptsText": "attempts remaining",
+    "remainingAttemptText": "attempts remaining",
+    "disabledAriaLabel": " This button is currently inactive"
+  },
+  "_classes": "",
+  "_lockType": null,
+  "_id": "course",
+  "_type": "course",
+  "_start": {
+    "_isEnabled": false,
+    "_startIds": [],
+    "_force": false,
+    "_isMenuDisabled": false
+  },
+  "_globals": {
+    "_accessibility": {
+      "_accessibilityToggleTextOn": "Activate tab stop position",
+      "_accessibilityToggleTextOff": "Deactivate tab stop position",
+      "skipNavigationText": "Jump to main content",
+      "_accessibilityInstructions": {
+        "touch": "_",
+        "notouch": "_",
+        "ipad": "_"
+      },
+      "_ariaLabels": {
+        "navigation": "Navigation header ",
+        "skipNavigation": "Jump to main content",
+        "home": "Home",
+        "menuLoaded": "Main menu loaded",
+        "menu": "Main menu",
+        "menuItem": "Section",
+        "menuViewButton": "Start section",
+        "page": "Section",
+        "pageLoaded": "Section loaded",
+        "previous": "Back",
+        "navigationBack": "Back button",
+        "navigationDrawer": "Search function and training resources",
+        "closeResources": "Close search function and resources",
+        "drawerBack": "Back",
+        "drawer": "",
+        "closeDrawer": "Close",
+        "closePopup": "Close",
+        "next": "Next",
+        "done": "Finished",
+        "complete": "Element complete",
+        "incomplete": "Element not complete",
+        "correct": "Right",
+        "incorrect": "Wrong",
+        "locked": "Locked",
+        "accessibilityToggleButton": "Click here to use keyboard navigation in the training section. ",
+        "feedbackPopUp": "Modal window open",
+        "visited": "Visited",
+        "menuBack": "Home",
+        "menuIndicatorHeading": "Section heading",
+        "exit": "Exit"
+      }
+    },
+    "_components": {
+      "_text": {
+        "ariaRegion": " "
+      },
+      "_graphic": {
+        "ariaRegion": " "
+      },
+      "_slider": {
+        "ariaRegion": "New element. ",
+        "ariaCorrectAnswer": "The right answer is {{{correctAnswer}}}.",
+        "ariaCorrectAnswerRange": "The right answer is {{{bottom}}} to {{{top}}}.",
+        "ariaUserAnswer": "Your answer was {{{userAnswer}}}.",
+        "labelStart": "Start",
+        "labelEnd": "End"
+      },
+      "_mcq": {
+        "ariaRegion": "New element. ",
+        "ariaCorrectAnswer": "The right answer is {{{correctAnswer}}}.",
+        "ariaCorrectAnswers": "The right answers are {{{correctAnswer}}}.",
+        "ariaUserAnswer": "Your answer was {{{userAnswer}}}.",
+        "ariaUserAnswers": "Your answers were {{{userAnswer}}}."
+      },
+      "_media": {
+        "ariaRegion": "Media player. ",
+        "skipToTranscript": "Transcript. ",
+        "playText": "Play",
+        "pauseText": "Pause",
+        "stopText": "Stop",
+        "audioPlayerText": "Audio Player",
+        "videoPlayerText": "Video Player",
+        "tracksText": "Captions/Subtitles",
+        "timeSliderText": "Time Slider",
+        "muteText": "Mute Toggle",
+        "unmuteStatusText": "Unmute",
+        "muteStatusText": "Mute",
+        "volumeSliderText": "Volume Slider",
+        "fullscreenText": "Fullscreen",
+        "goFullscreenText": "Go Fullscreen",
+        "turnOffFullscreenText": "Turn off Fullscreen",
+        "noneText": "None",
+        "skipBackText": "Skip back %1 seconds",
+        "allyVolumeControlText": "Use Up/Down Arrow keys to increase or decrease volume.",
+        "progessHelpText": "Use Left/Right Arrow keys to advance one second, Up/Down arrows to advance ten seconds."
+      },
+      "_branching": {
+        "ariaRegion": "New element: User instructions: Use the arrow keys to navigate through the scenario."
+      },
+      "_accordion": {
+        "ariaRegion": "New element. "
+      },
+      "_narrative": {
+        "ariaRegion": "New element. ",
+        "previous": "Previous.",
+        "next": "Next. "
+      },
+      "_flipcard": {
+        "ariaRegion": "New element. "
+      }
+    },
+    "_extensions": {
+      "_confirmExit": {
+        "confirmExitButtonLabel": "Close the training. ",
+        "confirmExitTitle": "Warning",
+        "confirmExitBody": "Are you sure you want to close and exit the training?",
+        "confirmExitYes": "Yes",
+        "confirmExitNo": "No"
+      },
+      "_pageLevelProgress": {
+        "pageLevelProgress": "Section element. ",
+        "pageLevelProgressIndicatorBar": "Open section menu, button. You have completed {{percentageComplete}}%.",
+        "pageLevelProgressMenuBar": "You have completed {{percentageComplete}}%.",
+        "pageLevelProgressEnd": "You have reached the end of the section element list.",
+        "optionalContent": "Optional implementation.",
+        "_navOrder": ""
+      },
+      "_tutor": {
+        "hideFeedback": "Hide feedback"
+      }
+    },
+    "_menu": {
+      "_boxMenuCustom": {
+        "ariaRegion": "Menu",
+        "durationLabel": "Time required:",
+        "menuItem": "Section button",
+        "menuEnd": "You have reached the end of the menu. "
+      }
+    }
+  },
+  "metadata": {
+    "parentCourseIds": [
+      "5af987c16ff73a72c3606baf",
+      "5c0642bc7b5b6a44ef47342a",
+      "5c416c8a06ff09770e5c6cc1",
+      "5c4964c2df340b644b4049ea",
+      "5c4e9d4307f80c29fbe6779e",
+      "5cf8212d7dec6807ac113dac",
+      "5d721fd2b2d69a2a459d40d9",
+      "5d7b756cd3c1b909cd989068",
+      "5d7f8490d3c1b909cd98917a",
+      "5d9726a2916e4c472cbf3d7c",
+      "5d9f4182b5776574de49a5c4",
+      "61387f40c1cefc4b797bfbff",
+      "615d88ff1e1b8108cb9e4f7a",
+      "616430303663cd08d2f52174",
+      "61f28664e0f7e631a62262d1",
+      "621dcde36071405120dd284b",
+      "628333ac0799d14fd8a688bd"
+    ]
+  },
+  "_menu": {
+    "_boxMenuCustom": {
+      "_menuInstructionText": "Click on a section to begin."
+    }
+  },
+  "_search": {
+    "_isEnabled": true,
+    "_drawerOrder": 0,
+    "_matchOn": {
+      "_contentWordBeginsPhraseWord": false,
+      "_contentWordContainsPhraseWord": false,
+      "_contentWordEqualsPhraseWord": true,
+      "_phraseWordBeginsContentWord": true
+    },
+    "_previewWords": 10,
+    "_previewCharacters": 30,
+    "_showFoundWords": true,
+    "_showHighlights": true,
+    "_ignoreWords": "article,block,component,title",
+    "_minimumWordLength": 2,
+    "_frequencyImportance": 5,
+    "title": "Search",
+    "description": "",
+    "placeholder": "Enter what you want to search for",
+    "noResultsMessage": "No hits",
+    "awaitingResultsMessage": "Searching for hits…"
+  },
+  "_pageFooterNavigation": {
+    "_isEnabled": true,
+    "_displayIcons": true,
+    "nextButtonText": "Next",
+    "prevButtonText": "Previous",
+    "homeButtonText": "Home",
+    "upButtonText": "Up",
+    "_displayOptions": "scrollToBottom",
+    "_hideHomeButton": false,
+    "_hideUpButton": true,
+    "_hidePrevButton": false,
+    "_hideNextButton": false
+  },
+  "_spoor": {
+    "_messages": null
+  },
+  "_bookmarking": {
+    "_isEnabled": true,
+    "_level": "component",
+    "_showPrompt": true,
+    "title": "Bookmark",
+    "body": "Do you want to continue where you left off last time?",
+    "_buttons": {
+      "yes": "Yes",
+      "no": "No"
+    }
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true,
+    "_isCompletionIndicatorEnabled": false,
+    "_isShownInNavigationBar": true
+  },
+  "_tutor": {
+    "_type": "notify",
+    "_classes": "",
+    "_hasNotifyBottomButton": false,
+    "_button": {
+      "text": "{{_globals._extensions._tutor.hideFeedback}}",
+      "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+    }
+  }
+}

@@ -1,0 +1,236 @@
+[
+  {
+    "title": "How to navigate",
+    "displayTitle": "How to navigate",
+    "body": "",
+    "_classes": "nav-chapter",
+    "_lockType": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_id": "630629dd2e59cf12be74e9e7",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    }
+  },
+  {
+    "title": "1 Introduction ",
+    "displayTitle": "1 Introduction ",
+    "body": "",
+    "_classes": "",
+    "_lockType": "",
+    "linkText": "View",
+    "duration": "5 minutes",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "630629dd2e59cf12be74e9e9",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    }
+  },
+  {
+    "title": "2 You can’t see everything from the outside",
+    "displayTitle": "2 You can’t see everything from the outside",
+    "body": "",
+    "_classes": "",
+    "_lockType": "",
+    "linkText": "View",
+    "duration": "8 minutes",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "630629dd2e59cf12be74e9eb",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    }
+  },
+  {
+    "title": "3 Prejudices can be a barrier",
+    "displayTitle": "3 Prejudices can be a barrier",
+    "body": "",
+    "_classes": "",
+    "_lockType": "",
+    "linkText": "View",
+    "duration": "9 minutes",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "630629dd2e59cf12be74e9ed",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    }
+  },
+  {
+    "title": "4 Norms for better or worse",
+    "displayTitle": "4 Norms for better or worse",
+    "body": "",
+    "_classes": "",
+    "_lockType": "",
+    "linkText": "View",
+    "duration": "9 minutes",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "630629dd2e59cf12be74e9ef",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    }
+  },
+  {
+    "title": "5 End",
+    "displayTitle": "5 End",
+    "body": "",
+    "_classes": "",
+    "_lockType": "",
+    "linkText": "View",
+    "duration": "1 minute",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "630629dd2e59cf12be74e9f1",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_search": {
+      "_isEnabled": true,
+      "title": "",
+      "keywords": ""
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    }
+  }
+]
